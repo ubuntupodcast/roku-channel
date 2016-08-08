@@ -67,9 +67,9 @@
 						text = "0"
 						translation = "[450,0]">
 						<Font
-							id = "Sosa-Regular"
+							id = "Ubuntu-Regular"
 							role = "font"
-							uri = "pkg:/fonts/sosa-regular-webfont.ttf"
+							uri = "pkg:/fonts/Ubuntu-R.ttf"
 							size = "36"/>
 					</Label>
 				</Rectangle>
@@ -129,8 +129,8 @@
 					translation = "[225,100]"
 				> <Font 
 					role = "font"
-					uri = "pkg:/fonts/avenirltstd-light-webfont.ttf"
-					id = "avenir-light"
+					uri = "pkg:/fonts/Ubuntu-L.ttf.ttf"
+					id = "ubuntu-light"
 					size = "26"
 				/>
 				</Label>
@@ -142,8 +142,8 @@
 					translation = "[1800,100]"
 				> <Font 
 					role = "font"
-					uri = "pkg:/fonts/avenirltstd-light-webfont.ttf"
-					id = "avenir-light"
+					uri = "pkg:/fonts/Ubuntu-L.ttf.ttf"
+					id = "ubuntu-light"
 					size = "26"
 				/>
 				</Label>
@@ -155,9 +155,9 @@
 					text = "N"
 					translation = "[910,10]">
 					<Font
-						id = "Sosa-Regular"
+						id = "Ubuntu-Regular"
 						role = "font"
-						uri = "pkg:/fonts/sosa-regular-webfont.ttf"
+						uri = "pkg:/fonts/Ubuntu-R.ttf"
 						size = "90"/>
 				</Label>
 				<Label
@@ -168,9 +168,9 @@
 					text = "T"
 					translation = "[810,10]">
 					<Font
-						id = "Sosa-Regular"
+						id = "Ubuntu-Regular"
 						role = "font"
-						uri = "pkg:/fonts/sosa-regular-webfont.ttf"
+						uri = "pkg:/fonts/Ubuntu-R.ttf"
 						size = "90"/>
 				</Label>
 				<Label
@@ -181,9 +181,9 @@
 					text = "S"
 					translation = "[1010,10]">
 					<Font
-						id = "Sosa-Regular"
+						id = "Ubuntu-Regular"
 						role = "font"
-						uri = "pkg:/fonts/sosa-regular-webfont.ttf"
+						uri = "pkg:/fonts/Ubuntu-R.ttf"
 						size = "90"/>
 				</Label>
 			</Rectangle>
@@ -247,8 +247,8 @@
 					>
 					<Font
 						role = "font"
-						uri = "pkg:/fonts/avenirltstd-light-webfont.ttf"
-						id = "avenir-light"
+						uri = "pkg:/fonts/Ubuntu-L.ttf.ttf"
+						id = "ubuntu-light"
 						size = "64"
 					/>
 				</Label>
@@ -271,8 +271,8 @@
 				>
 				<Font
 						role = "font"
-						uri = "pkg:/fonts/avenirltstd-light-webfont.ttf"
-						id = "avenir-light"
+						uri = "pkg:/fonts/Ubuntu-L.ttf.ttf"
+						id = "ubuntu-light"
 						size = "42"
 				/>
 				</Label>
