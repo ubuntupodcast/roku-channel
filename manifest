@@ -5,10 +5,10 @@
 #
 
 # Channel Details
-title=PodcastProject
+title=Ubuntu Podcast
 major_version=1
 minor_version=0
-build_version=74
+build_version=0
 
 # Channel Assets
 mm_icon_focus_hd=pkg:/images/podcast-sample-hd.png

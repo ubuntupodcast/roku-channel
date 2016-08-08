@@ -3,7 +3,7 @@ Function LoadConfig()
 '###########     MODIFY FOR DIFFERENT PODCASTS AND SETTINGS      ############      
 '#####################     RSS Feed for Podcast     #########################
        
-        m.feed = "http://thisdamnworld.libsyn.com/rss" 'If there is a problem with the RSS feed, please see RSS Parse
+        m.feed = "http://feed.ubuntupodcast.org/mp3/" 'If there is a problem with the RSS feed, please see RSS Parse
                    
 '################    Modify to Change List Font Color     ###################    
        
