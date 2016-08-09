@@ -40,8 +40,8 @@ Function RSSParse()
                 duration = 0
                 m.glb.warning = 1
             end if
-            if item.DoesExist("itunes:summary")
-                row.Description = item["itunes:summary"].getText()
+            if item.DoesExist("description")
+                row.Description = item["description"].getText()
             end if    
             row.URL = item["enclosure"].getAttributes()["url"]
             if item.DoesExist("itunes:explicit")
