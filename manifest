@@ -11,7 +11,7 @@
 
 # Channel Details
 title=Ubuntu Podcast
-subtitle=news and discussion from the Ubuntu community
+subtitle=News and discussion from the Linux, Open Source and Ubuntu communities
 major_version=1
 minor_version=0
 build_version=0
@@ -28,10 +28,10 @@ mm_icon_side_sd=pkg:/images/mm_icon_side_sd.png
 
 # Splash Screen + Loading Screen Artwork
 # Image sizes are FHD: 1920x1080px | HD: 1280x720px | SD: 720x480px
-# Use centered channel icons and the same spalsh color as background
-splash_screen_fhd=pkg:/images/mm_icon_focus_hd.png
-splash_screen_hd=pkg:/images/mm_icon_focus_hd.png
-splash_screen_sd=pkg:/images/mm_icon_focus_sd.png
+# Use centered poster art and the same spalsh color as background
+splash_screen_fhd=pkg:/images/poster_fhd.png
+splash_screen_hd=pkg:/images/poster_hd.png
+splash_screen_sd=pkg:/images/poster_sd.png
 splash_color=#2C001E
 splash_min_time=0
 
