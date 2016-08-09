@@ -67,9 +67,9 @@
 						text = "0"
 						translation = "[450,0]">
 						<Font
-							id = "Ubuntu-Regular"
+							id = "Sosa-Regular"
 							role = "font"
-							uri = "pkg:/fonts/Ubuntu-R.ttf"
+							uri = "pkg:/fonts/sosa-regular-webfont.ttf"
 							size = "36"/>
 					</Label>
 				</Rectangle>
@@ -155,9 +155,9 @@
 					text = "N"
 					translation = "[910,10]">
 					<Font
-						id = "Ubuntu-Regular"
+						id = "Sosa-Regular"
 						role = "font"
-						uri = "pkg:/fonts/Ubuntu-R.ttf"
+						uri = "pkg:/fonts/sosa-regular-webfont.ttf"
 						size = "90"/>
 				</Label>
 				<Label
@@ -168,9 +168,9 @@
 					text = "T"
 					translation = "[810,10]">
 					<Font
-						id = "Ubuntu-Regular"
+						id = "Sosa-Regular"
 						role = "font"
-						uri = "pkg:/fonts/Ubuntu-R.ttf"
+						uri = "pkg:/fonts/sosa-regular-webfont.ttf"
 						size = "90"/>
 				</Label>
 				<Label
@@ -181,9 +181,9 @@
 					text = "S"
 					translation = "[1010,10]">
 					<Font
-						id = "Ubuntu-Regular"
+						id = "Sosa-Regular"
 						role = "font"
-						uri = "pkg:/fonts/Ubuntu-R.ttf"
+						uri = "pkg:/fonts/sosa-regular-webfont.ttf"
 						size = "90"/>
 				</Label>
 			</Rectangle>
