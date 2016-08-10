@@ -11,10 +11,10 @@ Function RSSParse()
        m.glb.Addfield("author", "string", true)
        m.glb.PodcastTitle = MyContent["Title"].getText()
        m.glb.uri = MyContent["itunes:image"].getAttributes()["href"]
-       if MyContent.DoesExist("tunes:summary")
+       if MyContent.DoesExist("itunes:summary")
             m.glb.summary = MyContent["itunes:summary"].getText()
        end if
-       m.glb.author = MyContent["itunes:author"].getText()
+       m.glb.author = "show@ubuntupodcast.org"
        m.glb.warning = 0
        
        m.ChildContent = GetEpisodes(m.feed)
