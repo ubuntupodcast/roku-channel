@@ -18,7 +18,6 @@ Function init ()
     
     m.Title = m.top.findNode("Title") 'Title Label
     m.Author = m.top.findNode("Author") 'Author/Artist Label
-    
     m.Summary = m.top.findNode("Summary") ' Description/Summary Label under Album Artwork
     
     m.list.color = m.global.ListColor 'LabelList -- Changes colors of labels
@@ -28,7 +27,7 @@ Function init ()
     m.list.SetFocus(true) ' Set Focus on Label List
     
     m.PodcastArt.uri = m.global.uri 'All Posters use the same artwork at different sizes and resolutions
-    m.Background.uri = m.global.uri
+    m.Background.uri = "pkg:/images/background_fhd.jpg"
     m.AlbumPlay.uri = m.global.uri
     
     m.Summary.text = m.global.summary  'Description underneath Album artwork
