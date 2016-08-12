@@ -125,7 +125,7 @@
 					translation = "[225,100]"
 				> <Font 
 					role = "font"
-					uri = "pkg:/fonts/Ubuntu-L.ttf.ttf"
+					uri = "pkg:/fonts/Ubuntu-L.ttf"
 					id = "ubuntu-light"
 					size = "26"
 				/>
@@ -138,7 +138,7 @@
 					translation = "[1800,100]"
 				> <Font 
 					role = "font"
-					uri = "pkg:/fonts/Ubuntu-L.ttf.ttf"
+					uri = "pkg:/fonts/Ubuntu-L.ttf"
 					id = "ubuntu-light"
 					size = "26"
 				/>
