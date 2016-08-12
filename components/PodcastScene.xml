@@ -101,7 +101,7 @@
 					width = "150"
 					loadWidth = "640"
 					loadHeight = "360"
-					translation = "[42,0]"
+					translation = "[64,0]"
 				/>
 				<Rectangle
 					id = "TimeBarBack"
