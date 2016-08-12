@@ -2,6 +2,23 @@
 
 A Roku channel for the [Ubuntu Podcast](http://ubuntupodcast.org).
 
+## Description
+
+A lively and upbeat podcast made by members of the Ubuntu UK LoCo that includes news, discussion and interviews from the Ubuntu and Open Source communities.
+
+## Keywords
+
+ubuntu
+linux
+open source
+technology
+gadgets
+podcast
+open rights
+gaming
+command line lurve
+
+
 ## Developer reference
 
 The channel is derived from [the example podcast-player-channel](https://github.com/rokudev/podcast-player-channel).
