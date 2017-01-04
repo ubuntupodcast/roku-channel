@@ -59,6 +59,8 @@ Function init ()
     m.list.observeField("itemSelected", "playaudio") 'Plays audio content in Label List
     m.global.observeField("FF", "FF") 'Calls function for trickplay when FastForward button is pressed
     m.global.observeField("Rewind", "Rewind") 'Calls function for trickplay when Rewind button is pressed
+
+    m.check = 0 'Initializes m.check before opening a podcast
 end Function
 
 sub closeWarning()
